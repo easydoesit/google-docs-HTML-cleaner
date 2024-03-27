@@ -4,6 +4,6 @@ Keeps all regular tags except span tags because google docs adds a lot of them.
 Meant to be used as a utility with larger projects
 
 ### Requirements 
-- Typescript
+- Typescript (you can easily strip TS if you prefer straight JS)
 - fs
 - path
